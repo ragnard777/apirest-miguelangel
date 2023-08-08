@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nombre": "Miguelangel",
+      "alias": "ElCabezon",
+      "email": "mlugo2277@gmail.com",
+      "password": "123456"
+    },
+    {
+      "nombre": "nathalie",
+      "email": "10955838-9",
+      "password": "Movistar2019",
+      "alias": "sudadita",
+      "id": 2
+    },
+    {
+      "nombre": "Miguel jose",
+      "email": "10955838-9",
+      "password": "Movistar2019",
+      "alias": "Esqueletico",
+      "id": 3
+    },
+    {
+      "nombre": "leonel",
+      "alias": "messi",
+      "email": "leo@gmail.com",
+      "password": "soyelmejor",
+      "id": 4
+    }
+  ],
+  "products": []
+}
